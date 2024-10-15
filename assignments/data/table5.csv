@@ -1,4 +1,4 @@
-﻿language,size_loc,dev_time (minutes),total_defects,test_defects
+﻿language,size_loc,dev_time,total_defects,test_defects
 A,1408,3949,89,23
 A,1529,2061,69,16
 A,946,3869,170,41
