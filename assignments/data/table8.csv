@@ -1,4 +1,4 @@
-﻿participant,group,time_good,completeness_good,correctness_good,rate_good,time_bad,completeness_bad,correctness_bad,rate_bad
+﻿participant,group,time_good,completeness_good,correctness_good,identification_good,time_bad,completeness_bad,correctness_bad,identification_bad
 P01,B,,0.545,0.75,,,0.238,0.714,
 P02,B,,0.818,1,,,0.095,1,
 P03,A,20,0.409,1,0.45,25,0.19,1,0.16
